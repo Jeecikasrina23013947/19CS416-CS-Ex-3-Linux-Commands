@@ -1,4 +1,6 @@
 # CC-LAB-3-Linux Commands Study
+# NAME:JEECIKASRINA M
+# REG NO:212223100015
 
 ## Introduction to Linux
 
